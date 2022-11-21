@@ -24,7 +24,7 @@ Example output:
 Profile for: /path/to/file.fasta
         Total residues: 11398263
         Totals for each amino acid code:
-                AA      count   perc
+                AA      count   frac
                 --      -----   ----
                 A       799341  0.070128
                 C       262784  0.023055
