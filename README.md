@@ -6,7 +6,7 @@ How to Run:
 -----------
 1. Clone this repository:
     ```shell
-    residue_counts
+    git clone https://github.com/mriffle/fasta-profiler.git
     ```
 
 2. Install requirements:
